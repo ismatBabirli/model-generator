@@ -41,7 +41,6 @@ class TypeRegistry
      */
     protected $databaseManager;
 
-
     /**
      * TypeRegistry constructor.
      * @param DatabaseManager $databaseManager
