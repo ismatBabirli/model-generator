@@ -33,7 +33,7 @@ class TypeRegistry
         'blob'         => 'string',
         'float'        => 'float',
         'guid'         => 'string',
-        'enum'         =>'enum'
+        'enum'         =>'string'
     ];
 
     /**
